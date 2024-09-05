@@ -5,6 +5,8 @@ I'm a Full-Stack MERN Engineer with a passion for building scalable and efficien
 ![React](https://img.shields.io/badge/React-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-brightpurple)
+![Nginx](https://img.shields.io/badge/Nginx-brightblue)
 
 🚀 Tech Stack <br />
 Frontend: React, Next.js, Redux, Ant Design, Shadcn, Material UI, Tailwind CSS <br />
