@@ -6,16 +6,16 @@ I'm a Full-Stack MERN Engineer with a passion for building scalable and efficien
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)
 
-🚀 Tech Stack
-Frontend: React, Next.js, Redux, Ant Design, Shadcn, Material UI, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB, PostgreSQL, MySQL
-Tools: Git, GitHub, Postman, Docker, Nginx
-Languages: JavaScript (ES6+), HTML, CSS
+🚀 Tech Stack <br />
+Frontend: React, Next.js, Redux, Ant Design, Shadcn, Material UI, Tailwind CSS <br />
+Backend: Node.js, Express.js <br />
+Database: MongoDB, PostgreSQL, MySQL <br />
+Tools: Git, GitHub, Postman, Docker, Nginx <br />
+Languages: JavaScript (ES6+), HTML, CSS v
 
-🔨 Projects
-E-Commerce Management System: A fully responsive e-commerce app built with System Design. Technology: React, Redux, Node.js, Express.js, MongoDB, Mongoose.
-University Management System: A university networking platform using React.js, Redux, Ant Design, Express.js, MongoDB, Mongoose.
+🔨 Projects <br />
+E-Commerce Management System: A fully responsive e-commerce app built with System Design. Technology: React, Redux, Node.js, Express.js, MongoDB, Mongoose. <br />
+University Management System: A university networking platform using React.js, Redux, Ant Design, Express.js, MongoDB, Mongoose. <br />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmmalamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdmmalamin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdmmalamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdmmal_amin/)  
